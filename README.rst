@@ -1,4 +1,4 @@
-solstice-tools-xgenmanager
+solstice-tools-proprigger
 ============================================================
 
 Tool to manage XGen workflow in Solstice
