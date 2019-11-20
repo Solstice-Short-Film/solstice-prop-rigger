@@ -27,4 +27,4 @@ Tool to manage XGen workflow in Solstice
     import plottwist.loader
     plottwist.loader.init()
 
-    artellapipe.ToolsMgr().run_tool(artellapipe.solstice, 'xgenmanager', do_reload=False, debug=False)
+    artellapipe.ToolsMgr().run_tool(artellapipe.solstice, 'solstice-prop-rigger', do_reload=False, debug=False)

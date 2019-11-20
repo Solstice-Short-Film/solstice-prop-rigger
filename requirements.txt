@@ -1,5 +1,5 @@
 # ===================================================================
-# artellapipe-tools-xgenmanager requirements file
+# artellapipe-tools-solstice-prop-rigger requirements file
 # ===================================================================
 Qt.py
 tpDccLib

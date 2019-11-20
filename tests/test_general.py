@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-Module that contains general tests for solstice-tools-xgenmanager
+Module that contains general tests for solstice-tools-proprigger
 """
 
 import pytest
 
-from solstice.tools.xgenmanager import __version__
+from solstice.tools.solstice-prop-rigger import __version__
 
 
 def test_version():
